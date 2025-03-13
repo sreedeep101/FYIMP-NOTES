@@ -54,18 +54,50 @@ sudo systemctl enable postgresql
   
   Syntax:
       INSERT INTO table_name (col_name1,col_name2,col_name3,...,col_namen) VALUES ('value1','value2','value3',...,'valuen');
+</pre>
 
 
-
-
+<pre>
 👉SELECT -->used to retrieve data from a database.
 
    Syntax for retrieving a table;
            SELECT * FROM table;
-
-
-
            
+### MORE ABOUT SELECT Command 
+      |
+      |
+      |--used to Fetching Data → Extracts data from tables.
+      |      Syntax : SELECT * FROM table-name;
+      |
+      |--used to Filtering Data → Retrieves specific records using "WHERE".
+      |      Syntax : SELECT * FROM table-name WHERE column-name = 'value'; 
+      |
+      |--Sorting Data → Uses "ORDER BY" to sort results.             
+      |     Syntax : SELECT * FROM table-name ORDER BY any-column DESC;
+      |                                                              |   | DESC is used to order in descending order. |  
+      |                                                              |---| we can also use ASC to make it in ascending|        |                                                                  | order (ASC is the default order)           |
+      |
+      |--Aggregating Data → Uses functions like SUM(), AVG(), COUNT().
+      |     Syntax : SELECT COUNT(*) FROM table-name;
+      |
+      |--Joining Tables → Combines data from multiple tables.
+      |      Syntax : SELECT x.column-name-in-the-first-table, y.column-name-in-the-second-table
+      |               FROM name-of-table1-that-fist-column-belongs x 
+      |              JOIN name-of-table2-that-second-column-belongs y ON x.Forien-KEY-intable1 = y.PRIMARY-KEY-table-2;
+      |        +------------------------------------------------------------------------------------------------------+
+      |        |     Examble : if i have two table named as "products", "suppliers" and "prod_name"&"sup_name" are the|        |        |               respective column and "sup_id" is the FORIEN KEY in table "products" and "supply_id"is |        |        |               the PRIMARY-KEY in table "suppliers" then the syntax become.                           |
+      |        |                                                                                                      |
+      |        |               SELECT p.prod_name, s.sup_name                                                         |
+      |        |               FROM products p                                                                        |
+      |        |               JOIN suppliers s ON p.sup_id = s.supply_id;                                            |
+      |        +------------------------------------------------------------------------------------------------------+
+      |
+      |--Grouping Data → Uses "GROUP BY" for summary reports.
+      |       Syntax : SELECT col_name, COUNT(*) FROM table-name GROUP BY col-name;
+      |
+</pre>
+
+<pre>           
 👉KEY WORDS USED TO SEARCH or FILTER and SORTHING
                |
                |---WHERE
