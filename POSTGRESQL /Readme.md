@@ -75,7 +75,8 @@ sudo systemctl enable postgresql
       |--Sorting Data → Uses "ORDER BY" to sort results.             
       |     Syntax : SELECT * FROM table-name ORDER BY any-column DESC;
       |                                                              |   | DESC is used to order in descending order. |  
-      |                                                              |---| we can also use ASC to make it in ascending|        |                                                                  | order (ASC is the default order)           |
+      |                                                              |---| we can also use ASC to make it in ascending|
+      |                                                                  | order (ASC is the default order)           |
       |
       |--Aggregating Data → Uses functions like SUM(), AVG(), COUNT().
       |     Syntax : SELECT COUNT(*) FROM table-name;
@@ -85,7 +86,9 @@ sudo systemctl enable postgresql
       |               FROM name-of-table1-that-fist-column-belongs x 
       |              JOIN name-of-table2-that-second-column-belongs y ON x.Forien-KEY-intable1 = y.PRIMARY-KEY-table-2;
       |        +------------------------------------------------------------------------------------------------------+
-      |        |     Examble : if i have two table named as "products", "suppliers" and "prod_name"&"sup_name" are the|        |        |               respective column and "sup_id" is the FORIEN KEY in table "products" and "supply_id"is |        |        |               the PRIMARY-KEY in table "suppliers" then the syntax become.                           |
+      |        |     Examble : if i have two table named as "products", "suppliers" and "prod_name"&"sup_name" are the|
+      |        |               respective column and "sup_id" is the FORIEN KEY in table "products" and "supply_id"is |
+      |        |               the PRIMARY-KEY in table "suppliers" then the syntax become.                           |
       |        |                                                                                                      |
       |        |               SELECT p.prod_name, s.sup_name                                                         |
       |        |               FROM products p                                                                        |
