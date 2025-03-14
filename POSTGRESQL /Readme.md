@@ -133,11 +133,10 @@ sudo systemctl enable postgresql
                |
                |
                |
+</pre>
 
 
-
-
-
+<pre>
 👉Constraints 
        |
        |---NOT NULL
@@ -154,10 +153,9 @@ sudo systemctl enable postgresql
        |
        |---FORIEN KEY
 
+</pre>
 
-
-
-
+<pre>
 👉DELETE
    Syntax: 
        DELETE FROM table_name WHERE col_name = "value" ;
