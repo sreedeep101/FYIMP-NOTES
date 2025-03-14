@@ -157,10 +157,20 @@ sudo systemctl enable postgresql
 
 <pre>
 👉DELETE
-   Syntax: 
-       DELETE FROM table_name WHERE col_name = "value" ;
+   Syntax 01: 
+       DELETE FROM table_name WHERE col_name = "value" ;  ( it is used to deleate a specific row in the table)
+   Syntax 02:
+       DELETE FROM table_name; ( it is used to delete all rows but keep the structure)
+
+  📝Note : we can also use "TRUNCATE" command insted of 'DELETE' to remove all rows faster
+           Syntax : TRUNCATE TABLE table_name;
 </pre>
 
+<pre>
+  👉DROP => It is used to delete entire table(including it's structure) , Database , users , constraints,etc ...
+     
+  
+</pre>
 
  </b>
  
