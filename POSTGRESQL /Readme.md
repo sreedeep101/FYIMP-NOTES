@@ -82,9 +82,9 @@ sudo systemctl enable postgresql
       |     Syntax : SELECT COUNT(*) FROM table-name;
       |
       |--Joining Tables → Combines data from multiple tables.
-      |      Syntax : SELECT x.column-name-in-the-first-table, y.column-name-in-the-second-table
-      |               FROM name-of-table1-that-fist-column-belongs x 
-      |              JOIN name-of-table2-that-second-column-belongs y ON x.Forien-KEY-intable1 = y.PRIMARY-KEY-table-2;
+      |      Syntax : SELECT x.column01,x.column02,…,x.column0n, y.column01,y.column02,…,y.column0n
+      |               FROM name-of-tablex ,name-of-tabley
+      |              WHERE x.Forien-KEY-intablex = y.PRIMARY-KEY-table-y;
       |        +------------------------------------------------------------------------------------------------------+
       |        |     Examble : if i have two table named as "products", "suppliers" and "prod_name"&"sup_name" are the|
       |        |               respective column and "sup_id" is the FORIEN KEY in table "products" and "supply_id"is |
@@ -114,7 +114,7 @@ sudo systemctl enable postgresql
                |                 |
                |                 |--IS NULL
                |                 |
-               |                 |--LIKE (pattern serching key used with like)
+               |                 |--LIKE (wild card used with like)
                |                 |              |
                |                                |-- % (to represent any number of characters from 0 to n)
                |                                |
