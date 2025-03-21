@@ -1,5 +1,5 @@
 
-### HOW TO INSTALL AND START PSQL IN UBUNTU.
+### HOW TO INSTALL AND Initialise PSQL IN UBUNTU.
 ##### To Install 
 <b>sudo apt install postgresql postgresql-contrib -y
 ##### To Check status 
@@ -168,7 +168,27 @@ sudo systemctl enable postgresql
 
 <pre>
   👉DROP => It is used to delete entire table(including it's structure) , Database , users , constraints,etc ...
-     
+   
+  
+</pre>
+### HOW TO UPDATE TABLE DATA
+<pre>
+  --> TO UPDATE ENTAIRE DATA IN A COLUMN
+  Syntax used :
+   UPDATE table_name SET column_name='updation-value';
+
+  --> TO UPDATE MULTIPLE COLUMN
+  syntax used :
+    UPDATE table-name SET column01-name='updation-value' ,column02-name='updation-value',...,column0n-name='updation-value';
+</pre>
+<pre>
+  --> TO UPDATE SPECIFIC DATA IN A TABLE COLUMN
+  Syntax used :
+   UPDATE table_name SET column-name='updation-value' WHERE another-col-name='value';
+  
+  |--------------------------------------------------+
+  |📝Note : here also we can update multiple columns |
+  |--------------------------------------------------+
   
 </pre>
 
