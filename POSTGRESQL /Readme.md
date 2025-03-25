@@ -100,7 +100,7 @@ sudo systemctl enable postgresql
       |       Syntax : SELECT col_name, COUNT(*) FROM table-name GROUP BY col-name;
       |
 </pre>
-
+## Key Words For Sorting and Filtering
 <pre>           
 👉KEY WORDS USED TO SEARCH or FILTER and SORTHING
                |
