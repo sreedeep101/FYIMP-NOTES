@@ -56,6 +56,7 @@ sudo systemctl enable postgresql
       INSERT INTO table_name (col_name1,col_name2,col_name3,...,col_namen) VALUES ('value1','value2','value3',...,'valuen');
 </pre>
 
+### How To Retrieve Data
 
 <pre>
 👉SELECT -->used to retrieve data from a database.
