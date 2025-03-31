@@ -199,6 +199,34 @@ sudo systemctl enable postgresql
   
 </pre>
 
+### Type Casting 
+<pre>
+  1. Using :: (Double Colon) Syntax
+
+          Example:
+              SELECT '123'::INTEGER;  -- Converts text to integer
+              SELECT 42::TEXT;        -- Converts integer to text
+              SELECT 3.14::INTEGER;   -- Converts float to integer (truncates decimal)
+  
+  2. Using CAST() Function
+         
+          Example:
+              SELECT CAST('123' AS INTEGER);   -- Converts text to integer
+              SELECT CAST(42 AS TEXT);         -- Converts integer to text
+              SELECT CAST(3.14 AS INTEGER);    -- Converts float to integer
+ 
+  3. Implicit Type Casting
+
+          Example:
+              SELECT 10 + '5';  -- Implicitly converts '5' (text) to integer
+  
+  4. Type Casting with :: in Table Queries
+  
+          Example:
+              SELECT name, age::INTEGER FROM users;
+
+</pre>
+
  </b>
  
 
