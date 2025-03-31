@@ -20,21 +20,23 @@ sudo systemctl enable postgresql
 </pre>
 
 # PSQL 
+<pre>
 <ul>
   <li> \l => it is used to list databases. </li>
   <li> \c => it is used to change/switch databases. </li>
   <li> \d => used to see relations in the DB.</li>
 </ul> 
-
+</pre>
 ## HOW TO CREATE DATABASES
+<pre>
  <br><br>
  To create database  we use the syntax,
  <br><br>
  CREATE DATABASE database-name ;    
  <br><br>
- 
+</pre>
 ## HOW TO CREATE TABLE
-<br><br>
+<pre>
  To create table  we use the syntax,
  <br><br>
  CREATE TABLE table-name (columnname1 datatype another-constraints , columnname2 datatype another-constraints  );   
@@ -49,7 +51,10 @@ sudo systemctl enable postgresql
   <li>  INT & VARCHAR=> It is the datatype </li>
   <li>  PRIMARY KEY & NOT NULL=> another constrains so here 'NOT NULL' is used to say that the dept_name column not be empty & 'PRIMARY KEY this make the dept_id column as the primary key </li>
 </ul> 
+</pre>
 <br>
+
+### To insert data into the table 
 <pre>
 👉INSERT INTO --> It is used to insert datas into a table
   
