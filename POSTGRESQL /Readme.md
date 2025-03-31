@@ -1,14 +1,15 @@
 
 ### HOW TO INSTALL AND Initialise PSQL IN UBUNTU.
-##### To Install 
+<pre>
+<mark>To install</mark>
 <b>sudo apt install postgresql postgresql-contrib -y
-##### To Check status 
+<mark>To Check status </mark>
 sudo systemctl status postgresql
-##### To start and enable psql
+<mark> To start and enable psql</mark>
 sudo systemctl start postgresql
 <br><br>
 sudo systemctl enable postgresql
-##### To Switch To User
+<mark>To Switch To User</mark>
 <ol>
   <li>sudo -i -u postgres (used to switch into user postgres)</li>
   <li>Now enter into psql shell we can use the command 'psql'</li>
@@ -16,9 +17,9 @@ sudo systemctl enable postgresql
   <li>exit => used to exit from user</li>
 </ol>
 
+</pre>
 
-
-# PSQL
+# PSQL 
 <ul>
   <li> \l => it is used to list databases. </li>
   <li> \c => it is used to change/switch databases. </li>
