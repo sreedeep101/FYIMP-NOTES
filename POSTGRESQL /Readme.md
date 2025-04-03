@@ -7,7 +7,7 @@
 sudo systemctl status postgresql
 <mark> To start and enable psql</mark>
 sudo systemctl start postgresql
-<br><br>
+<br>
 sudo systemctl enable postgresql
 <mark>To Switch To User</mark>
 <ol>
@@ -154,9 +154,9 @@ sudo systemctl enable postgresql
        |       |--To Add UNIQUE constraints in already existing table column 
        |       |    ALTER TABLE table_name ADD CONSTRAINTS name_of_constraint UNIQUE (col_name);
        |
-       |---PRIMARY KEY
+       |---PRIMARY KEY 
        |
-       |---FORIEN KEY
+       |---FORIEN KEY - it is the reference key that refers the primary key of the other table
 
 </pre>
 
