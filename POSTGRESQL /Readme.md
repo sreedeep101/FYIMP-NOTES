@@ -16,9 +16,7 @@ sudo systemctl enable postgresql
   <li>\q => used to quit from psql shell</li>
   <li>exit => used to exit from user</li>
 </ol>
-
 </pre>
-
 # PSQL 
 <pre>
 <ul>
