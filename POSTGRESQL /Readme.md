@@ -140,7 +140,7 @@ sudo systemctl enable postgresql
                |
 </pre>
 
-
+## Constraint Used
 <pre>
 👉Constraints 
        |
@@ -159,7 +159,7 @@ sudo systemctl enable postgresql
        |---FORIEN KEY - it is the reference key that refers the primary key of the other table
 
 </pre>
-
+## Delete Key word 
 <pre>
 👉DELETE
    Syntax 01: 
