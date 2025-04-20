@@ -170,7 +170,7 @@ sudo systemctl enable postgresql
   📝Note : we can also use "TRUNCATE" command insted of 'DELETE' to remove all rows faster
            Syntax : TRUNCATE TABLE table_name;
 </pre>
-
+## DROP
 <pre>
   👉DROP => It is used to delete entire table(including it's structure) , Database , users , constraints,etc ...
    
