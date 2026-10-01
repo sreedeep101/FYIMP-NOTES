@@ -52,6 +52,8 @@ interfaces Sports and Academics, each containing one method. Create a class Stud
 implements both interfaces and displays the student's academic and sports information.
 ```
 <a href="./Prog05.java">Code</a>
+<img width="844" height="206" alt="image" src="https://github.com/user-attachments/assets/b50a3e19-4c5b-4478-96e5-e26fede4dac3" />
+
 #### 6. Packages – Declaring and Importing a Package
 ```
 Create a package named college containing a class Student with a method to display student
