@@ -82,7 +82,10 @@ program to import and use this class.
 Write a Java program to accept two integers from the user and perform division. Use try-
 catch to handle the ArithmeticException that occurs when the denominator is zero.
 ```
-<!-- <a href="./Prog08.java">Code</a> -->
+<a href="./Prog08.java">Code</a>
+<img width="827" height="206" alt="image" src="https://github.com/user-attachments/assets/b364cdde-8d6c-4e12-b601-dd2b265a7395" />
+
+
 #### 9. throw and throws
 ```
 Write a Java program to create a method checkAge(int age) that throws an exception using
