@@ -19,6 +19,10 @@ Write a Java program to demonstrate dynamic method dispatch using a superclass S
 and subclasses Circle and Rectangle. Override the draw() method in each subclass and
 invoke it using a superclass reference.
 ```
+<a href="./Prog02.java">Code</a>
+
+<img width="861" height="82" alt="image" src="https://github.com/user-attachments/assets/6fcdea6e-7e84-4725-9d79-daba6c2136c8" />
+
 
 #### 3. Abstract Class
 ```
@@ -26,44 +30,56 @@ Write a Java program to create an abstract class Vehicle containing an abstract 
 start() and a concrete method display(). Create subclasses Car and Bike and implement the
 start() method in each subclass.
 ```
+<a href="./Prog03.java">Code</a>
+
+
+
+
 #### 4. Defining and Implementing an Interface
 ```
 Define an interface Printable with a method print(). Create classes Student and Teacher that
 implement the interface. Write a program to display the details of a student and a teacher
 using the print() method.
 ```
+<a href="./Prog04.java">Code</a>
+
+
+
 #### 5. Multiple Interfaces
 ```
 Write a Java program to demonstrate the implementation of multiple interfaces. Define
 interfaces Sports and Academics, each containing one method. Create a class Student that
 implements both interfaces and displays the student's academic and sports information.
 ```
+<a href="./Prog05.java">Code</a>
 #### 6. Packages – Declaring and Importing a Package
 ```
 Create a package named college containing a class Student with a method to display student
 details. Write another Java program outside the package to import the college package and
 access the Student class.
 ```
+<a href="./Prog06.java">Code</a>
 #### 7. Sub-packages
 ```
 Create a package structure college.department. Define a class ITStudent inside the
 department sub-package with a method to display student information. Write another Java
 program to import and use this class.
 ```
+<a href="./Prog07.java">Code</a>
 
 #### 8. try-catch Exception Handling
 ```
 Write a Java program to accept two integers from the user and perform division. Use try-
 catch to handle the ArithmeticException that occurs when the denominator is zero.
 ```
-
+<a href="./Prog08.java">Code</a>
 #### 9. throw and throws
 ```
 Write a Java program to create a method checkAge(int age) that throws an exception using
 the throw keyword when the age is less than 18. Declare the exception using throws and
 handle it in the calling method.
 ```
-
+<a href="./Prog09.java">Code</a>
 #### 10. Multiple Exceptions and finally
 ```
 Write a Java program that accepts an array index and performs an operation on an array.
@@ -71,3 +87,4 @@ Use try-catch to handle ArrayIndexOutOfBoundsException and another appropriate
 exception. Use a finally block to display a message indicating that exception handling has
 been completed.
 ```
+<a href="./Prog10.java">Code</a>
