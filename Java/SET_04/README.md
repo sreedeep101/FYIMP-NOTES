@@ -7,7 +7,7 @@ subclasses Dog and Cat that override the sound() method. Display the appropriate
 each animal.
 
 ```
-<a href="https://github.com/sreedeep101/FYIMP-NOTES/blob/main/Java/SET_04/Prog01.java">Code</a>
+<a href="./Prog01.java">Code</a>
 
 ##### Output : 
 <img width="750" height="101" alt="image" src="https://github.com/user-attachments/assets/eb171b49-6237-4a50-bcab-b0868bc9910d" />
