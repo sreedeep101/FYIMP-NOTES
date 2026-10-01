@@ -92,7 +92,10 @@ Write a Java program to create a method checkAge(int age) that throws an excepti
 the throw keyword when the age is less than 18. Declare the exception using throws and
 handle it in the calling method.
 ```
-<!-- <a href="./Prog09.java">Code</a> -->
+<a href="./Prog09.java">Code</a>
+
+<img width="804" height="282" alt="image" src="https://github.com/user-attachments/assets/5f3b99bf-66a0-455b-9c44-d70335b153c2" />
+
 #### 10. Multiple Exceptions and finally
 ```
 Write a Java program that accepts an array index and performs an operation on an array.
