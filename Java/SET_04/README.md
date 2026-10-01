@@ -71,21 +71,21 @@ Create a package structure college.department. Define a class ITStudent inside t
 department sub-package with a method to display student information. Write another Java
 program to import and use this class.
 ```
-<a href="./Prog07.java">Code</a>
+<!-- <a href="./Prog07.java">Code</a> -->
 
 #### 8. try-catch Exception Handling
 ```
 Write a Java program to accept two integers from the user and perform division. Use try-
 catch to handle the ArithmeticException that occurs when the denominator is zero.
 ```
-<a href="./Prog08.java">Code</a>
+<!-- <a href="./Prog08.java">Code</a> -->
 #### 9. throw and throws
 ```
 Write a Java program to create a method checkAge(int age) that throws an exception using
 the throw keyword when the age is less than 18. Declare the exception using throws and
 handle it in the calling method.
 ```
-<a href="./Prog09.java">Code</a>
+<!-- <a href="./Prog09.java">Code</a> -->
 #### 10. Multiple Exceptions and finally
 ```
 Write a Java program that accepts an array index and performs an operation on an array.
@@ -93,4 +93,4 @@ Use try-catch to handle ArrayIndexOutOfBoundsException and another appropriate
 exception. Use a finally block to display a message indicating that exception handling has
 been completed.
 ```
-<a href="./Prog10.java">Code</a>
+<!-- <a href="./Prog10.java">Code</a> -->
