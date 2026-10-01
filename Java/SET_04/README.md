@@ -72,6 +72,7 @@ department sub-package with a method to display student information. Write anoth
 program to import and use this class.
 ```
 <a href="./college/department/ITStudent.java.java">sub package Code</a>
+<br/>
 <a href="./Prog07.java">importing Code</a>
 <img width="793" height="240" alt="image" src="https://github.com/user-attachments/assets/b6bdf7be-4850-4157-b91e-5ebb9ed1c3d7" />
 
