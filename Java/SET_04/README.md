@@ -103,4 +103,7 @@ Use try-catch to handle ArrayIndexOutOfBoundsException and another appropriate
 exception. Use a finally block to display a message indicating that exception handling has
 been completed.
 ```
-<!-- <a href="./Prog10.java">Code</a> -->
+<a href="./Prog10.java">Code</a>
+
+<img width="819" height="428" alt="image" src="https://github.com/user-attachments/assets/eb1912a4-ff7b-40b7-a114-c3fc76503e82" />
+
