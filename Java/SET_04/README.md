@@ -61,7 +61,8 @@ details. Write another Java program outside the package to import the college pa
 access the Student class.
 ```
 <a href="./college/Student.java">package code</a>
-<a href="./Prog06.java">Code</a>
+<br/>
+<a href="./Prog06.java">package importing Code</a>
 <img width="846" height="206" alt="image" src="https://github.com/user-attachments/assets/d8a87665-b4be-4e49-ad92-d26d9159c8eb" />
 
 #### 7. Sub-packages
