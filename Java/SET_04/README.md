@@ -71,7 +71,10 @@ Create a package structure college.department. Define a class ITStudent inside t
 department sub-package with a method to display student information. Write another Java
 program to import and use this class.
 ```
-<!-- <a href="./Prog07.java">Code</a> -->
+<a href="./college/department/ITStudent.java.java">sub package Code</a>
+<a href="./Prog07.java">importing Code</a>
+<img width="793" height="240" alt="image" src="https://github.com/user-attachments/assets/b6bdf7be-4850-4157-b91e-5ebb9ed1c3d7" />
+
 
 #### 8. try-catch Exception Handling
 ```
