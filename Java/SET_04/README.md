@@ -42,6 +42,7 @@ using the print() method.
 ```
 <a href="./Prog04.java">Code</a>
 
+<img width="761" height="229" alt="image" src="https://github.com/user-attachments/assets/20d9a230-1a69-4e7d-aa4b-1c9439d4cc1b" />
 
 
 #### 5. Multiple Interfaces
