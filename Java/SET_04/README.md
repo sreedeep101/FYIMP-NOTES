@@ -32,8 +32,7 @@ start() method in each subclass.
 ```
 <a href="./Prog03.java">Code</a>
 
-
-
+<img width="735" height="125" alt="image" src="https://github.com/user-attachments/assets/332960ce-68ba-4cdf-81e4-3c489e362638" />
 
 #### 4. Defining and Implementing an Interface
 ```
