@@ -21,6 +21,7 @@ invoke it using a superclass reference.
 ```
 <a href="./Prog02.java">Code</a>
 
+##### Output : 
 <img width="861" height="82" alt="image" src="https://github.com/user-attachments/assets/6fcdea6e-7e84-4725-9d79-daba6c2136c8" />
 
 
@@ -32,6 +33,7 @@ start() method in each subclass.
 ```
 <a href="./Prog03.java">Code</a>
 
+##### Output : 
 <img width="735" height="125" alt="image" src="https://github.com/user-attachments/assets/332960ce-68ba-4cdf-81e4-3c489e362638" />
 
 #### 4. Defining and Implementing an Interface
@@ -42,6 +44,7 @@ using the print() method.
 ```
 <a href="./Prog04.java">Code</a>
 
+##### Output : 
 <img width="761" height="229" alt="image" src="https://github.com/user-attachments/assets/20d9a230-1a69-4e7d-aa4b-1c9439d4cc1b" />
 
 
@@ -52,6 +55,8 @@ interfaces Sports and Academics, each containing one method. Create a class Stud
 implements both interfaces and displays the student's academic and sports information.
 ```
 <a href="./Prog05.java">Code</a>
+
+##### Output : 
 <img width="844" height="206" alt="image" src="https://github.com/user-attachments/assets/b50a3e19-4c5b-4478-96e5-e26fede4dac3" />
 
 #### 6. Packages – Declaring and Importing a Package
@@ -63,6 +68,8 @@ access the Student class.
 <a href="./college/Student.java">package code</a>
 <br/>
 <a href="./Prog06.java">package importing Code</a>
+
+##### Output : 
 <img width="846" height="206" alt="image" src="https://github.com/user-attachments/assets/d8a87665-b4be-4e49-ad92-d26d9159c8eb" />
 
 #### 7. Sub-packages
@@ -74,6 +81,8 @@ program to import and use this class.
 <a href="./college/department/ITStudent.java.java">sub package Code</a>
 <br/>
 <a href="./Prog07.java">importing Code</a>
+
+##### Output : 
 <img width="793" height="240" alt="image" src="https://github.com/user-attachments/assets/b6bdf7be-4850-4157-b91e-5ebb9ed1c3d7" />
 
 
@@ -83,6 +92,8 @@ Write a Java program to accept two integers from the user and perform division. 
 catch to handle the ArithmeticException that occurs when the denominator is zero.
 ```
 <a href="./Prog08.java">Code</a>
+
+##### Output : 
 <img width="827" height="206" alt="image" src="https://github.com/user-attachments/assets/b364cdde-8d6c-4e12-b601-dd2b265a7395" />
 
 
@@ -94,6 +105,7 @@ handle it in the calling method.
 ```
 <a href="./Prog09.java">Code</a>
 
+##### Output : 
 <img width="804" height="282" alt="image" src="https://github.com/user-attachments/assets/5f3b99bf-66a0-455b-9c44-d70335b153c2" />
 
 #### 10. Multiple Exceptions and finally
@@ -105,5 +117,6 @@ been completed.
 ```
 <a href="./Prog10.java">Code</a>
 
+##### Output : 
 <img width="819" height="428" alt="image" src="https://github.com/user-attachments/assets/eb1912a4-ff7b-40b7-a114-c3fc76503e82" />
 
