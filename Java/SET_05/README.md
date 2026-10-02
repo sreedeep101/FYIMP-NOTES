@@ -28,6 +28,10 @@ Write a Java program to create two or more threads by implementing the Runnable
 interface. Each thread should perform a separate task. Explain why implementing Runnable
 can be preferable to extending the Thread class in certain situations.
 ```
+<a href=./Prog03.java>code</a>
+<br/>
+<img width="626" height="204" alt="image" src="https://github.com/user-attachments/assets/0fe57f6f-1ae7-4896-a8f3-f6f11bfe31f2" />
+
 #### 4. Synchronization
 ```
 Write a Java program in which multiple threads access and update a shared bank account
