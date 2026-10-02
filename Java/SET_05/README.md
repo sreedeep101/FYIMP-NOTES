@@ -18,6 +18,9 @@ should perform a different task, such as printing numbers, displaying characters
 displaying a message. Execute all three threads concurrently and observe their execution
 order.
 ```
+<a href=./Prog02.java>code</a>
+<br/>
+<img width="629" height="296" alt="image" src="https://github.com/user-attachments/assets/384cff5b-164c-4c52-a385-7e4bcf543852" />
 
 #### 3. Creating Threads using Runnable Interface
 ```
