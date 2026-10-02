@@ -7,6 +7,9 @@ transition between the New, Runnable, Running, Waiting/Timed Waiting, and Termin
 states.
 ```
 <a href=./Prog01.java>code</a>
+<br/>
+<img width="591" height="123" alt="image" src="https://github.com/user-attachments/assets/512db093-c702-4f09-903f-9b6eb0a338fe" />
+
 
 #### 2. Creating Threads using Thread Class
 ```
