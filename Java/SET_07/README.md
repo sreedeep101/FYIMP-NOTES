@@ -67,7 +67,7 @@ three different sets of parameter values.
 ```
 <a href="./Prog05/ColorMessageApplet.java"> Java code </a>
 <br/>
-<a href="./Prog02/ColorMessageApplet.html"> HTML code </a>
+<a href="./Prog05/ColorMessageApplet.html"> HTML code </a>
 ###### Outputs:
 <img width="550" height="387" alt="Screenshot From 2026-10-03 22-02-23" src="https://github.com/user-attachments/assets/46d30021-4296-40a6-82cc-08d7068cdabd" />
 
