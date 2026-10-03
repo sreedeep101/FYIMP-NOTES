@@ -51,3 +51,7 @@ representing customers attempting to book tickets from the same limited ticket p
 synchronization to ensure that two customers cannot book the same ticket. Display the
 booking details and remaining number of tickets after each transaction.
 ```
+<a href=./Prog05.java>code</a>
+<br/>
+<img width="800" height="301" alt="image" src="https://github.com/user-attachments/assets/1ec9883f-9642-42c8-bdf0-87e0638f8ce8" />
+
