@@ -29,6 +29,9 @@ marks—in a file using DataOutputStream. Then, read the same data from the file
 DataInputStream and display the student details.
 ```
 <a href="./Prog03.java">code</a>
+###### Output: 
+<img width="801" height="305" alt="image" src="https://github.com/user-attachments/assets/6d61acab-a22f-435f-9534-ac3b21368dcc" />
+
 
 #### 4. BufferedInputStream and BufferedOutputStream
 ```
