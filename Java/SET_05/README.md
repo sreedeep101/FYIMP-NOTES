@@ -41,7 +41,8 @@ updated correctly.
 ```
 <a href=./Prog04.java>code</a>
 <br/>
-<img width="788" height="149" alt="image" src="https://github.com/user-attachments/assets/167bd7ba-479b-4e23-8a93-7879cef7c62d" />
+<img width="788" height="149" alt="image" src="https://github.com/user-attachments/assets/49fa4c47-0e42-4ee8-ade0-c63fa9e8234a" />
+
 
 #### 5. Multithreading with Synchronization
 ```
