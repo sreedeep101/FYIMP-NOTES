@@ -51,3 +51,6 @@ display all stored employee details using DataInputStream. Use appropriate excep
 handling and stream-closing mechanisms.
 ```
 <a href="./Prog05.java">code</a>
+###### Output:
+<img width="428" height="628" alt="image" src="https://github.com/user-attachments/assets/cfaecf5e-ceef-4e4c-b314-9a61de71c2fa" />
+
