@@ -7,7 +7,7 @@ class ReadFileDemo {
 
 
 		try {
-			fis = new FileInputStream("input.txt");
+			fis = new FileInputStream("./FileData/input.txt");
 			System.out.println("File Opened\n");
 			int data;
 			

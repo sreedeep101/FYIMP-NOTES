@@ -10,7 +10,7 @@ class WriteFileDemo{
 		String text = sc.nextLine();
 		
 		try {
-			FileOutputStream fos = new FileOutputStream("output.txt", true);
+			FileOutputStream fos = new FileOutputStream("./FileData/output.txt", true);
 			
 			byte data[] = text.getBytes();
 			

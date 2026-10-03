@@ -6,7 +6,7 @@ class EmployeeData{
 		Scanner sc = new Scanner(System.in);
 		
 		try{
-			FileOutputStream fos = new FileOutputStream("Employee.dat");
+			FileOutputStream fos = new FileOutputStream("./FileData/Employee.dat");
 			DataOutputStream dos = new DataOutputStream(fos);
 
 			System.out.print("Enter total number of employee : ");
@@ -41,7 +41,7 @@ class EmployeeData{
 		}
 
 		try {
-			FileInputStream fis = new FileInputStream("Employee.dat");
+			FileInputStream fis = new FileInputStream("./FileData/Employee.dat");
 			DataInputStream dis = new DataInputStream(fis);
 
 			int n = dis.readInt();

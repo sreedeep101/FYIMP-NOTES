@@ -3,10 +3,10 @@ import java.io.*;
 class FileCopyDemo{
 	public static void main(String args[]){
 		try {
-			FileInputStream fis = new FileInputStream("input.txt");
+			FileInputStream fis = new FileInputStream("./FileData/input.txt");
 			BufferedInputStream bis = new BufferedInputStream(fis);
 
-			FileOutputStream fos = new FileOutputStream("copy_input.txt");
+			FileOutputStream fos = new FileOutputStream("./FileData/copy_input.txt");
 			BufferedOutputStream bos = new BufferedOutputStream(fos);
 
 			int data;

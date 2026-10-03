@@ -15,7 +15,7 @@ class StudentData{
 		double marks = sc.nextDouble();
 
 		try {
-			FileOutputStream fos = new FileOutputStream("student.dat");
+			FileOutputStream fos = new FileOutputStream("./FileData/student.dat");
 			DataOutputStream dos = new DataOutputStream(fos);
 
 			System.out.println("Writing to the file...");
@@ -33,7 +33,7 @@ class StudentData{
 		}
 
 		try {
-			FileInputStream fis = new FileInputStream("student.dat");
+			FileInputStream fis = new FileInputStream("./FileData/student.dat");
 			DataInputStream dis = new DataInputStream(fis);
 
 			int rno = dis.readInt();
