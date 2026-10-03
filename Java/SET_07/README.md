@@ -21,6 +21,13 @@ Develop a Java Applet that accepts a student's name, register number, course, an
 semester as parameters and displays the information in a formatted manner. Use the
 appropriate Applet life-cycle method to initialize the parameters and paint() to display them.
 ```
+<a href="./Prog01/AppletLifeCycle.java"> Java code </a>
+<br/>
+<a href="./Prog01/AppletLifeCycle.html"> HTML code </a>
+###### Outputs:
+<img width="685" height="73" alt="image" src="https://github.com/user-attachments/assets/de467594-c7a8-41d8-87d4-d176259f1fd3" />
+<img width="550" height="387" alt="Screenshot From 2026-10-03 15-50-09" src="https://github.com/user-attachments/assets/5765ce0c-8137-4c7d-b557-edfddbceb881" />
+
 
 #### 3. Interactive Applet Using Mouse Events
 ```
