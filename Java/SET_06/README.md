@@ -7,6 +7,9 @@ FileInputStream and display the contents on the console. Handle possible excepti
 appropriately and ensure that the stream is closed after reading.
 ```
 <a href="./Prog01.java">code</a>
+###### Output:
+<img width="800" height="252" alt="image" src="https://github.com/user-attachments/assets/6fc54eca-1f1c-4b1e-b71e-099f0cdbc7c1" />
+
 
 #### 2. FileOutputStream – Writing to a File
 ```
