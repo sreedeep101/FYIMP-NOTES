@@ -39,6 +39,10 @@ balance. Demonstrate the problem that can occur when multiple threads modify the
 balance simultaneously. Then use the synchronized keyword to ensure that the balance is
 updated correctly.
 ```
+<a href=./Prog04.java>code</a>
+<br/>
+<img width="788" height="149" alt="image" src="https://github.com/user-attachments/assets/167bd7ba-479b-4e23-8a93-7879cef7c62d" />
+
 #### 5. Multithreading with Synchronization
 ```
 Develop a Java program that simulates a ticket booking system. Create multiple threads
