@@ -39,6 +39,9 @@ Write a Java program to copy the contents of one file into another using
 BufferedInputStream and BufferedOutputStream.
 ```
 <a href="./Prog04.java">code</a>
+###### Output:
+<img width="793" height="198" alt="image" src="https://github.com/user-attachments/assets/71e1d7a4-1b1b-49bd-b3a7-384a7c474ed0" />
+
 
 #### 5. Combined File and Data Stream Application
 ```
