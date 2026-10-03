@@ -8,6 +8,7 @@ states.
 ```
 <a href=./Prog01.java>code</a>
 <br/>
+###### Output : 
 <img width="591" height="123" alt="image" src="https://github.com/user-attachments/assets/bbf9047e-b272-4847-b3ff-5ab4b1ef6d24" />
 
 
@@ -20,6 +21,7 @@ order.
 ```
 <a href=./Prog02.java>code</a>
 <br/>
+###### Output : 
 <img width="629" height="296" alt="image" src="https://github.com/user-attachments/assets/384cff5b-164c-4c52-a385-7e4bcf543852" />
 
 #### 3. Creating Threads using Runnable Interface
@@ -30,6 +32,7 @@ can be preferable to extending the Thread class in certain situations.
 ```
 <a href=./Prog03.java>code</a>
 <br/>
+###### Output : 
 <img width="626" height="204" alt="image" src="https://github.com/user-attachments/assets/0fe57f6f-1ae7-4896-a8f3-f6f11bfe31f2" />
 
 #### 4. Synchronization
@@ -41,6 +44,7 @@ updated correctly.
 ```
 <a href=./Prog04.java>code</a>
 <br/>
+###### Output : 
 <img width="788" height="149" alt="image" src="https://github.com/user-attachments/assets/49fa4c47-0e42-4ee8-ade0-c63fa9e8234a" />
 
 
@@ -53,5 +57,6 @@ booking details and remaining number of tickets after each transaction.
 ```
 <a href=./Prog05.java>code</a>
 <br/>
+###### Output : 
 <img width="800" height="301" alt="image" src="https://github.com/user-attachments/assets/1ec9883f-9642-42c8-bdf0-87e0638f8ce8" />
 
