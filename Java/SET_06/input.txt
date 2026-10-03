@@ -1,0 +1,4 @@
+Hello World!
+This is a java file handling program
+to demonstrate this i have created this txt file 
+so lets do file handling using fileinputstream
