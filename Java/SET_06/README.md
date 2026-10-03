@@ -7,7 +7,7 @@ FileInputStream and display the contents on the console. Handle possible excepti
 appropriately and ensure that the stream is closed after reading.
 ```
 <a href="./Prog01.java">code</a>
-###### Output:
+###### Output :
 <img width="800" height="252" alt="image" src="https://github.com/user-attachments/assets/6fc54eca-1f1c-4b1e-b71e-099f0cdbc7c1" />
 
 
@@ -18,6 +18,9 @@ output.txt using FileOutputStream. If the file already exists, append the new co
 deleting the existing data.
 ```
 <a href="./Prog02.java">code</a>
+###### Output : 
+<img width="800" height="271" alt="image" src="https://github.com/user-attachments/assets/ac38dff8-eef1-40d6-a128-c44327251db8" />
+
 
 #### 3. DataInputStream and DataOutputStream
 ```
