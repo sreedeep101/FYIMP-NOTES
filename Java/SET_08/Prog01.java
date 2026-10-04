@@ -6,6 +6,7 @@ class StudentRegistration extends Frame implements ActionListener {
 	Label nameLabel , regLabel , courseLabel , semesterLabel, genderLabel;
 	TextField nameField, regField;
 	Choice courseChoice, semesterChoice;
+	Checkbox male, female;
 	CheckboxGroup genderGroup;
 	Button submitButton, clearButton;
 	TextArea resultArea;
@@ -43,9 +44,9 @@ class StudentRegistration extends Frame implements ActionListener {
 		semesterChoice.add("6");
 		
 		genderLabel = new Label("Gender :");
-		genderGroup = new checkboxGroup();
-		male = new checkbox("Male",genderGroup, true);
-		female = new checkbox("Female", genderGroup, false);
+		genderGroup = new CheckboxGroup();
+		male = new Checkbox("Male",genderGroup, true);
+		female = new Checkbox("Female", genderGroup, false);
 		
 		Panel genderPanel = new Panel();
 		genderPanel.setLayout(new FlowLayout(FlowLayout.LEFT));
@@ -87,7 +88,7 @@ class StudentRegistration extends Frame implements ActionListener {
 		clearButton.addActionListener(this);
 		
 		addWindowListener(new WindowAdapter() {
-			public void windowClosing(windowEvent e) {
+			public void windowClosing(WindowEvent e) {
 				dispose();
 			}
 		});
