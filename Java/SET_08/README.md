@@ -44,6 +44,10 @@ application should respond to mouse clicks, mouse movement, and keyboard events.
 appropriate event listener interfaces and demonstrate the use of adapter classes to avoid
 implementing unnecessary listener methods.
 ```
+<a href="./Prog04.java"> Code </a>
+###### Output:
+<img width="1050" height="687" alt="image" src="https://github.com/user-attachments/assets/5303e92b-72e9-4bb0-827f-f44bf103928c" />
+
 
 #### 5. Integrated AWT Event-Driven Application
 ```
