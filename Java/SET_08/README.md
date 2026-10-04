@@ -57,4 +57,7 @@ for calculating total and average, and a suitable component for displaying the r
 Frame, Panel, appropriate layout managers, AWT controls, and event listeners. Include
 suitable window-closing event handling using an adapter class.
 ```
+<a href="./Prog05.java"> Code </a>
+###### Output:
+<img width="1374" height="329" alt="image" src="https://github.com/user-attachments/assets/c3c2337c-4dc4-4c00-9fea-1db5438680a1" />
 
