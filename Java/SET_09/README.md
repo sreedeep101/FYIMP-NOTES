@@ -10,6 +10,11 @@ JTextField, JRadioButton, JCheckBox, JComboBox, and JButton.
   o Display the entered details when the Submit button is clicked.
   o Provide a Clear button to reset all fields.
 ```
+<a href="Prog01.java"> code </a>
+###### Output:
+<img width="450" height="487" alt="image" src="https://github.com/user-attachments/assets/d4502bfc-945d-4a3e-874e-bd869d656cec" />
+<img width="312" height="242" alt="image" src="https://github.com/user-attachments/assets/023fd114-9eb4-4a8c-9a31-6b21c434ee95" />
+
 #### 2. Simple Calculator using Swing Components
 ```
 Develop a GUI-based calculator using Swing components such as JTextField and JButton.
