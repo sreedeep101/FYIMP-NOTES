@@ -24,6 +24,10 @@ Develop a GUI-based calculator using Swing components such as JTextField and JBu
   o Display the result in a text field or label.
   o Handle invalid input and division by zero using appropriate exception handling.
 ```
+<a href="Prog02.java"> code </a>
+###### Output:
+<img width="428" height="279" alt="image" src="https://github.com/user-attachments/assets/ccd5c434-c5ab-410a-860a-7b7a802a7b47" />
+
 #### 3. Student Mark List Application
 ```
 Create a Swing application to accept the name, register number, and marks in three
@@ -34,6 +38,9 @@ subjects using text fields.
   o Use JButton for Calculate, Clear, and Exit operations.
   o Validate that the entered marks are within the range 0–100.
 ```
+<a href="Prog03.java"> code </a>
+###### Output:
+<img width="428" height="429" alt="image" src="https://github.com/user-attachments/assets/8767883b-2a3e-4a4b-9d90-ccc1e9a6f08f" />
 
 #### 4. Login and User Authentication Interface
 ```
@@ -46,6 +53,11 @@ components to create a Login Form.
   o Include Reset and Exit buttons.
   o Ensure that the password is not displayed as plain text.
 ```
+<a href="Prog04.java"> code </a>
+###### Output:
+<img width="378" height="279" alt="image" src="https://github.com/user-attachments/assets/e6f10db3-52f0-4dd1-ad87-4930deab57d6" />
+<img width="290" height="156" alt="image" src="https://github.com/user-attachments/assets/f74f897e-6cd7-4c46-bcc2-426e9415ea3f" />
+<img width="290" height="156" alt="image" src="https://github.com/user-attachments/assets/49db3b96-38dd-436d-963e-a10aa399bc18" />
 
 #### 5. Library Book Management GUI
 ```
@@ -59,3 +71,8 @@ The application should allow the user to:
   o Clear the input fields.
   o Display a message when no table row is selected for deletion.
 ```
+<a href="Prog05.java"> code </a>
+###### Output:
+<img width="728" height="429" alt="image" src="https://github.com/user-attachments/assets/9596c193-55b1-4f87-8c11-d30940cf103c" />
+
+
