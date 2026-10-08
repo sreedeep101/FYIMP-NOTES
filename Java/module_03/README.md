@@ -23,6 +23,9 @@ JDBC Statement.
 Develop a student registration program using PreparedStatement to insert and search student records
 based on user input.
 ```
+<a href="./StudentRegistration.java"> Code </a>
+<img width="1161" height="254" alt="image" src="https://github.com/user-attachments/assets/4cb1297e-1e71-4043-a4d4-67d12951e43b" />
+
 <!-- 1. CallableStatement & Stored Procedures 
 Create a MySQL stored procedure and invoke it from Java using CallableStatement.
 2. ResultSet Navigation 
