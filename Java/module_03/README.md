@@ -26,26 +26,43 @@ based on user input.
 <a href="./StudentRegistration.java"> Code </a>
 <img width="1161" height="254" alt="image" src="https://github.com/user-attachments/assets/4cb1297e-1e71-4043-a4d4-67d12951e43b" />
 
-<!-- 1. CallableStatement & Stored Procedures 
+#### 4. CallableStatement & Stored Procedures 
+```
 Create a MySQL stored procedure and invoke it from Java using CallableStatement.
-2. ResultSet Navigation 
+```
+
+#### 5. ResultSet Navigation 
+```
 Retrieve employee/student records and demonstrate ResultSet navigation methods such as next(),
 previous(), first(), last() and absolute().
-3. BLOB and CLOB Handling 
-Store and retrieve an image using BLOB and a large text/document using CLOB.
+```
 
-1. Database Metadata 
+#### 6. BLOB and CLOB Handling 
+```
+Store and retrieve an image using BLOB and a large text/document using CLOB.
+```
+
+#### 7. Database Metadata 
+```
 Write a program to display database information such as database name, version, driver name,
 supported features and available tables using DatabaseMetaData.
+```
 
-2. ResultSet Metadata 
+#### 8. ResultSet Metadata 
+```
 Display the column names, column count, data types and other properties of a table dynamically using
 ResultSetMetaData.
+```
 
-3. JDBC Transactions 
+#### 9. JDBC Transactions 
+```
 Implement a bank money-transfer system using JDBC transactions. Use commit() when successful and
 rollback() when an error occurs.
+```
 
-1. JDBC Exception & Error Handling
+#### 10. JDBC Exception & Error Handling
+```
 Develop a JDBC application that handles connection errors, invalid SQL queries, duplicate records and
-invalid input using appropriate exception handling. -->
+invalid input using appropriate exception handling.
+```
+
