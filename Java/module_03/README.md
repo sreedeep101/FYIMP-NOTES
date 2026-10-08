@@ -6,13 +6,17 @@ Write a Java program to connect to a MySQL database using JDBC and display a suc
 message.
 ```
 <a href="./MYSQLConnection.java"> Code </a>
- 
+<img width="994" height="62" alt="image" src="https://github.com/user-attachments/assets/a21a71d0-ad03-4433-bb51-572b732b6a30" />
 
 #### 2. MySQL CRUD Using JDBC 
 ```
 Create a student database/table and implement INSERT, UPDATE, DELETE and SELECT operations using
 JDBC Statement.
 ```
+<a href="./Student.java"> Code </a>
+
+<img width="1029" height="221" alt="image" src="https://github.com/user-attachments/assets/6b830af6-919e-41c3-92f3-29b5eeb69445" />
+
 
 #### 3. PreparedStatement for Parameterized Operations 
 ```
