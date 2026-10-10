@@ -30,12 +30,18 @@ based on user input.
 ```
 Create a MySQL stored procedure and invoke it from Java using CallableStatement.
 ```
+<a href="./CallProcedureDemo.java"> Code </a>
+<img width="950" height="66" alt="image" src="https://github.com/user-attachments/assets/8355cfb1-a4fa-486d-baaa-d696207249eb" />
+
 
 #### 5. ResultSet Navigation 
 ```
 Retrieve employee/student records and demonstrate ResultSet navigation methods such as next(),
 previous(), first(), last() and absolute().
 ```
+<a href="ResultSetDemo.java"> Code </a>
+<img width="954" height="221" alt="image" src="https://github.com/user-attachments/assets/adc34625-4dd6-4572-b286-8c018c4de679" />
+
 
 #### 6. BLOB and CLOB Handling 
 ```
