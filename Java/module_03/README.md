@@ -6,6 +6,8 @@ Write a Java program to connect to a MySQL database using JDBC and display a suc
 message.
 ```
 <a href="./MYSQLConnection.java"> Code </a>
+<br/>
+###### output:
 <img width="994" height="62" alt="image" src="https://github.com/user-attachments/assets/a21a71d0-ad03-4433-bb51-572b732b6a30" />
 
 #### 2. MySQL CRUD Using JDBC 
@@ -14,7 +16,8 @@ Create a student database/table and implement INSERT, UPDATE, DELETE and SELECT 
 JDBC Statement.
 ```
 <a href="./Student.java"> Code </a>
-
+<br/>
+###### output:
 <img width="1029" height="221" alt="image" src="https://github.com/user-attachments/assets/6b830af6-919e-41c3-92f3-29b5eeb69445" />
 
 
@@ -24,6 +27,8 @@ Develop a student registration program using PreparedStatement to insert and sea
 based on user input.
 ```
 <a href="./StudentRegistration.java"> Code </a>
+<br/>
+###### output:
 <img width="1161" height="254" alt="image" src="https://github.com/user-attachments/assets/4cb1297e-1e71-4043-a4d4-67d12951e43b" />
 
 #### 4. CallableStatement & Stored Procedures 
@@ -31,6 +36,8 @@ based on user input.
 Create a MySQL stored procedure and invoke it from Java using CallableStatement.
 ```
 <a href="./CallProcedureDemo.java"> Code </a>
+<br/>
+###### output:
 <img width="950" height="66" alt="image" src="https://github.com/user-attachments/assets/8355cfb1-a4fa-486d-baaa-d696207249eb" />
 
 
@@ -40,6 +47,8 @@ Retrieve employee/student records and demonstrate ResultSet navigation methods s
 previous(), first(), last() and absolute().
 ```
 <a href="ResultSetDemo.java"> Code </a>
+<br/>
+###### output:
 <img width="954" height="221" alt="image" src="https://github.com/user-attachments/assets/adc34625-4dd6-4572-b286-8c018c4de679" />
 
 
@@ -48,6 +57,8 @@ previous(), first(), last() and absolute().
 Store and retrieve an image using BLOB and a large text/document using CLOB.
 ```
 <a href="StoreRetriveDemo.java"> Code </a>
+<br/>
+###### output:
 <img width="1110" height="99" alt="image" src="https://github.com/user-attachments/assets/77c4c806-40ce-4fe3-a99e-f20bc24b3cb0" />
 
 
@@ -57,6 +68,8 @@ Write a program to display database information such as database name, version, 
 supported features and available tables using DatabaseMetaData.
 ```
 <a href ="DatabaseInfo.java"> Code </a>
+<br/>
+###### output:
 <img width="1262" height="366" alt="image" src="https://github.com/user-attachments/assets/22afaa9f-cb89-436b-b552-e674e55429b1" />
 
 
@@ -66,6 +79,8 @@ Display the column names, column count, data types and other properties of a tab
 ResultSetMetaData.
 ```
 <a href="ColumnInfo.java"> Code </a>
+<br/>
+###### output:
 <img width="971" height="566" alt="image" src="https://github.com/user-attachments/assets/61dd61d0-2340-46c3-8dc9-1381c38c3b7e" />
 
 #### 9. JDBC Transactions 
@@ -74,6 +89,8 @@ Implement a bank money-transfer system using JDBC transactions. Use commit() whe
 rollback() when an error occurs.
 ```
 <a href="BankTransfer.java"> Code </a>
+<br/>
+###### output:
 <img width="1184" height="188" alt="image" src="https://github.com/user-attachments/assets/78411994-1253-4a86-bfda-d184ca32efd9" />
 
 
@@ -83,6 +100,8 @@ Develop a JDBC application that handles connection errors, invalid SQL queries, 
 invalid input using appropriate exception handling.
 ```
 <a href="JdbcExceptions.java"> Code </a>
+<br/>
+###### output:
 <img width="1184" height="151" alt="image" src="https://github.com/user-attachments/assets/42078a2c-bf96-4fd3-a3ed-75f567c97e13" />
 
 
