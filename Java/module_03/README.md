@@ -47,18 +47,26 @@ previous(), first(), last() and absolute().
 ```
 Store and retrieve an image using BLOB and a large text/document using CLOB.
 ```
+<a href="StoreRetriveDemo.java"> Code </a>
+<img width="1110" height="99" alt="image" src="https://github.com/user-attachments/assets/77c4c806-40ce-4fe3-a99e-f20bc24b3cb0" />
+
 
 #### 7. Database Metadata 
 ```
 Write a program to display database information such as database name, version, driver name,
 supported features and available tables using DatabaseMetaData.
 ```
+<a href ="DatabaseInfo.java"> Code </a>
+<img width="1262" height="366" alt="image" src="https://github.com/user-attachments/assets/22afaa9f-cb89-436b-b552-e674e55429b1" />
+
 
 #### 8. ResultSet Metadata 
 ```
 Display the column names, column count, data types and other properties of a table dynamically using
 ResultSetMetaData.
 ```
+<a href="ColumnInfo.java"> Code </a>
+<img width="971" height="566" alt="image" src="https://github.com/user-attachments/assets/61dd61d0-2340-46c3-8dc9-1381c38c3b7e" />
 
 #### 9. JDBC Transactions 
 ```
