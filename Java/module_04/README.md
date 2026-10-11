@@ -1,8 +1,17 @@
 ## MODULE4
 #### 1. Simple MVC Application 
-'''
+```
 Develop a simple Student Management application following Model-View-Controller architecture.
-'''
+```
+<a href="Student.java"> Model Code </a> 
+<br/>
+<a href="StudentView.java"> View Code </a>
+<br/>
+<a href="StudentController.java"> Controller Code </a>
+<br/>
+<a href="Main.java">Main Code</a>
+###### Output:
+
 
 #### 2. MVC CRUD Application 
 ```
