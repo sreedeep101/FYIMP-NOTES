@@ -73,10 +73,16 @@ ResultSetMetaData.
 Implement a bank money-transfer system using JDBC transactions. Use commit() when successful and
 rollback() when an error occurs.
 ```
+<a href="BankTransfer.java"> Code </a>
+<img width="1184" height="188" alt="image" src="https://github.com/user-attachments/assets/78411994-1253-4a86-bfda-d184ca32efd9" />
+
 
 #### 10. JDBC Exception & Error Handling
 ```
 Develop a JDBC application that handles connection errors, invalid SQL queries, duplicate records and
 invalid input using appropriate exception handling.
 ```
+<a href="JdbcExceptions.java"> Code </a>
+<img width="1184" height="151" alt="image" src="https://github.com/user-attachments/assets/42078a2c-bf96-4fd3-a3ed-75f567c97e13" />
+
 
