@@ -47,6 +47,12 @@ Create a Servlet demonstrating the init(), service() and destroy() life-cycle me
 ```
 Create one Servlet using GenericServlet and another using HttpServlet, and demonstrate their differences.
 ```
+<a href="ServletComparison">Code folder</a>
+###### output:
+<img width="645" height="286" alt="Screenshot From 2026-10-13 19-57-17" src="https://github.com/user-attachments/assets/c2d2ae9f-72ca-436f-ac83-87ea1c33a597" />
+
+<img width="645" height="286" alt="image" src="https://github.com/user-attachments/assets/fe958e0c-5deb-45e6-a8d3-af776a46cca3" />
+
 
 #### 6. GET, POST and HEAD Requests 
 ```
