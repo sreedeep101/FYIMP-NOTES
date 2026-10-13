@@ -3,13 +3,13 @@
 ```
 Develop a simple Student Management application following Model-View-Controller architecture.
 ```
-<a href="Student.java"> Model Code </a> 
+<a href="Prog01/Student.java"> Model Code </a> 
 <br/>
-<a href="StudentView.java"> View Code </a>
+<a href="Prog01/StudentView.java"> View Code </a>
 <br/>
-<a href="StudentController.java"> Controller Code </a>
+<a href="Prog01/StudentController.java"> Controller Code </a>
 <br/>
-<a href="Main.java">Main Code</a>
+<a href="Prog01/Main.java">Main Code</a>
 ###### Output:
 <img width="1181" height="162" alt="Screenshot From 2026-10-11 15-19-33" src="https://github.com/user-attachments/assets/d7973a78-b698-43b1-9805-cded2909d43d" />
 
@@ -18,6 +18,12 @@ Develop a simple Student Management application following Model-View-Controller 
 ```
 Develop an MVC-based application to add, view, update and delete student records using JSP, Servlet and JDBC.
 ```
+<a href="StudentMVC">Code folder</a>
+###### output:
+<img width="933" height="749" alt="Screenshot from 2026-10-13 12-44-05" src="https://github.com/user-attachments/assets/f8564cbd-18d0-4cb1-8ca3-4832978bfef7" />
+<img width="933" height="749" alt="Screenshot from 2026-10-13 12-44-29" src="https://github.com/user-attachments/assets/faeefbb9-3bdd-4a70-8a93-860740dd995f" />
+<img width="933" height="749" alt="Screenshot from 2026-10-13 12-44-35" src="https://github.com/user-attachments/assets/be2ffb8b-de48-40c1-ac4c-731f530f6f44" />
+
 
 #### 3. Basic Servlet 
 ```
