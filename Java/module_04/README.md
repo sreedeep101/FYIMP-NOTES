@@ -72,6 +72,7 @@ Create a Servlet that reads parameters from an HTML form and generates an approp
 <a href="FormServlet">Code folder</a>
 ###### output:
 <img width="646" height="328" alt="image" src="https://github.com/user-attachments/assets/7fbf1e57-945d-4ae0-bc5d-b7840bb604ac" />
+<img width="646" height="328" alt="image" src="https://github.com/user-attachments/assets/32028d5e-5b3d-4a69-985f-43a66f3d2ddc" />
 
 
 #### 8. Servlet Error Handling 
