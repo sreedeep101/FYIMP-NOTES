@@ -38,6 +38,10 @@ Create a Servlet that displays student information and deploy it on a servlet co
 ```
 Create a Servlet demonstrating the init(), service() and destroy() life-cycle methods and display messages showing when each method is executed.
 ```
+<a href="ServletLifecycle">Code folder</a>
+###### output:
+<img width="927" height="317" alt="image" src="https://github.com/user-attachments/assets/66b47e02-9836-43d3-bc08-57dc9ef6460c" />
+
 
 #### 5. GenericServlet and HttpServlet 
 ```
