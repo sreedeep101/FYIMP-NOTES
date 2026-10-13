@@ -29,6 +29,10 @@ Develop an MVC-based application to add, view, update and delete student records
 ```
 Create a Servlet that displays student information and deploy it on a servlet container such as Apache Tomcat.
 ```
+<a href="StudentInfo">Code folder</a>
+###### output:
+<img width="927" height="317" alt="image" src="https://github.com/user-attachments/assets/5158bf88-7d5b-4252-be59-85a044e28f0a" />
+
 
 #### 4. Servlet Life Cycle 
 ```
