@@ -58,11 +58,21 @@ Create one Servlet using GenericServlet and another using HttpServlet, and demon
 ```
 Create an HTML form and Servlet that handles GET and POST requests. Implement a response for a HEAD request and demonstrate the differences.
 ```
+<a href="HttpMethods">Code folder</a>
+###### output:
+<img width="644" height="437" alt="image" src="https://github.com/user-attachments/assets/f71cce91-7e24-454f-ac2b-a61e4119e051" />
+<img width="638" height="236" alt="image" src="https://github.com/user-attachments/assets/d9e59c78-cd4e-4ee8-9165-d5997f11d1cc" />
+<img width="638" height="236" alt="image" src="https://github.com/user-attachments/assets/b9044047-7283-4572-8aa2-f88f26c18695" />
+
 
 #### 7. Servlet Request and Response 
 ```
 Create a Servlet that reads parameters from an HTML form and generates an appropriate HTML response using HttpServletRequest and HttpServletResponse.
 ```
+<a href="FormServlet">Code folder</a>
+###### output:
+<img width="646" height="328" alt="image" src="https://github.com/user-attachments/assets/7fbf1e57-945d-4ae0-bc5d-b7840bb604ac" />
+
 
 #### 8. Servlet Error Handling 
 ```
