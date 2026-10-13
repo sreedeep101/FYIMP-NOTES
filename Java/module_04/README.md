@@ -80,15 +80,30 @@ Create a Servlet that reads parameters from an HTML form and generates an approp
 Create a Servlet that intentionally generates an error and implement a custom error page using appropriate Servlet/web configuration.
 ```
 
+<a href="CustomError">Code folder</a>
+###### output:
+
+<img width="645" height="166" alt="image" src="https://github.com/user-attachments/assets/465a6cf9-971d-4c20-ae22-ef55119c82ae" />
+<img width="645" height="229" alt="image" src="https://github.com/user-attachments/assets/bedfb523-1ac9-4271-b54a-e78d5ea10800" />
+
+
 #### 9. Servlet Security 
 ```
 Develop a simple login application with protected resources where only authenticated users can access a particular Servlet or page.
 ```
+<a href="LoginApp">Code folder</a>
+###### output:
+<img width="645" height="229" alt="image" src="https://github.com/user-attachments/assets/325dbba6-8afa-41d7-b967-43ce1b2c20f8" />
 
 #### 10. Servlet Chaining 
 ```
 Create two Servlets where the first Servlet processes a request and forwards or includes the request to the second Servlet using RequestDispatcher.
 ```
+<a href="RequestDispatcherDemo">Code folder</a>
+###### output:
+<img width="645" height="229" alt="image" src="https://github.com/user-attachments/assets/0359491f-8b46-45bd-b731-3998c029325d" />
+<img width="645" height="229" alt="image" src="https://github.com/user-attachments/assets/b89e93a0-acd3-4993-ac6e-d8ce6c099ba6" />
+
 
 #### 11. Cookies
 ```
