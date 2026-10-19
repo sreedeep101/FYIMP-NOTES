@@ -117,6 +117,14 @@ Create a Servlet application that stores the user's name or preferences in a coo
 ```
 Develop a simple shopping cart/session-based application using HttpSession to maintain user information across multiple requests.
 ```
+<a href="ShoppingCart">Code folder</a>
+###### Output:
+<img width="683" height="340" alt="Screenshot From 2026-10-19 18-01-19" src="https://github.com/user-attachments/assets/962c6629-316f-4704-9fd2-9de99ad2ed04" />
+
+<img width="680" height="537" alt="Screenshot From 2026-10-19 18-01-32" src="https://github.com/user-attachments/assets/a60c07af-f479-41c7-8855-42e812d00f10" />
+
+<img width="677" height="694" alt="image" src="https://github.com/user-attachments/assets/b73ddce0-7de8-4199-bf0f-2c8c307b7327" />
+
 
 #### 13. Basic JSP & JSP Life Cycle 
 ```
