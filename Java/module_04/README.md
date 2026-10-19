@@ -130,6 +130,10 @@ Develop a simple shopping cart/session-based application using HttpSession to ma
 ```
 Create a JSP page that displays dynamic student information and demonstrate the JSP translation, compilation and execution process.
 ```
+<a href="StudentJSP">Code folder</a>
+###### Output:
+<img width="682" height="410" alt="Screenshot From 2026-10-19 18-10-56" src="https://github.com/user-attachments/assets/0a7a1204-5f03-4e74-8417-85ee55bc9eb1" />
+
 
 #### 14. JSP Expressions and Declarations 
 ```
