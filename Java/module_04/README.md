@@ -139,7 +139,7 @@ Create a JSP page that displays dynamic student information and demonstrate the 
 ```
 Create a JSP page that uses declarations and expressions to calculate and display student marks, total and average.
 ```
-<a href="StudentMarks">Code folder</a>
+<a href="StudentMarks/index.jsp">Code</a>
 ###### Output:
 <img width="682" height="410" alt="image" src="https://github.com/user-attachments/assets/581f684d-669d-4c4f-b920-daf1bc7c25d6" />
 
