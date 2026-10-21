@@ -109,6 +109,11 @@ Create two Servlets where the first Servlet processes a request and forwards or 
 ```
 Create a Servlet application that stores the user's name or preferences in a cookie and retrieves the information during subsequent requests.
 ```
+<a href="CookieApp">Code folder</a>
+###### output:
+<img width="430" height="183" alt="image" src="https://github.com/user-attachments/assets/682bd088-c7f9-451c-b266-516b9fb54675" />
+<img width="430" height="183" alt="image" src="https://github.com/user-attachments/assets/03da77df-7795-47fc-ab66-63bbb0917ba6" />
+
 ## ===================================
 
 ### Roll No. 26 3 programs (large)
@@ -150,6 +155,11 @@ Create a JSP page that uses declarations and expressions to calculate and displa
 ```
 Create JSP pages demonstrating important page directive attributes such as import, contentType and errorPage.
 ```
+<a href="JSPDirectives">Code</a>
+###### Output:
+<img width="478" height="215" alt="image" src="https://github.com/user-attachments/assets/cd446897-da1a-430d-9975-d2432574aa6f" />
+<img width="1315" height="672" alt="image" src="https://github.com/user-attachments/assets/f8451dae-3d10-4a71-a7dd-35a3856294f6" />
+
 
 #### 16. JSP Actions 
 ```
