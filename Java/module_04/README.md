@@ -155,7 +155,7 @@ Create a JSP page that uses declarations and expressions to calculate and displa
 ```
 Create JSP pages demonstrating important page directive attributes such as import, contentType and errorPage.
 ```
-<a href="JSPDirectives">Code</a>
+<a href="JSPDirectives">Code Folder</a>
 ###### Output:
 <img width="478" height="215" alt="image" src="https://github.com/user-attachments/assets/cd446897-da1a-430d-9975-d2432574aa6f" />
 <img width="1315" height="672" alt="image" src="https://github.com/user-attachments/assets/f8451dae-3d10-4a71-a7dd-35a3856294f6" />
@@ -165,16 +165,29 @@ Create JSP pages demonstrating important page directive attributes such as impor
 ```
 Create a JSP application demonstrating standard JSP actions such as jsp:include, jsp:forward, jsp:useBean, jsp:setProperty and jsp:getProperty.
 ```
+<a href="JSPActions">Code Folder</a>
+###### Output:
+<img width="642" height="234" alt="image" src="https://github.com/user-attachments/assets/9d06dceb-ee8d-43ff-9680-fe0bb9c99516" />
+<img width="642" height="234" alt="image" src="https://github.com/user-attachments/assets/baf77036-76a3-4c77-886b-cd7b73bc22b0" />
+<img width="642" height="234" alt="image" src="https://github.com/user-attachments/assets/9e3ebd2e-bdc8-4420-b4ae-6087f18a94d4" />
+
 
 #### 17. JSP Implicit Objects 
 ```
 Develop a JSP page demonstrating commonly used implicit objects such as request, response, session, application, out, config, pageContext and exception.
 ```
+<a href="JSPImplicit">Code Folder</a>
+###### Output:
+<img width="545" height="470" alt="image" src="https://github.com/user-attachments/assets/eb019c56-353f-4fdc-859a-f7e9ef451a4c" />
+<img width="545" height="470" alt="image" src="https://github.com/user-attachments/assets/d720efb7-7814-4862-961b-9b900542242c" />
+<img width="555" height="152" alt="image" src="https://github.com/user-attachments/assets/7b4bebd4-6a20-40ba-8528-c3180be677fb" />
 
 #### 18. Standard Tag Library (JSTL) 
 ```
 Create a JSP application using JSTL tags for conditions, iteration and formatting, including c:if, c:forEach, c:choose, c:when and c:otherwise.
 ```
+<img width="545" height="646" alt="image" src="https://github.com/user-attachments/assets/3df6b719-d4ab-413a-93b4-90f49890b384" />
+
 
 #### 19. Custom Tag Library 
 ```
