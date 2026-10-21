@@ -186,6 +186,8 @@ Develop a JSP page demonstrating commonly used implicit objects such as request,
 ```
 Create a JSP application using JSTL tags for conditions, iteration and formatting, including c:if, c:forEach, c:choose, c:when and c:otherwise.
 ```
+<a href="JSTLApp">Code Folder</a>
+###### Output:
 <img width="545" height="646" alt="image" src="https://github.com/user-attachments/assets/3df6b719-d4ab-413a-93b4-90f49890b384" />
 
 
