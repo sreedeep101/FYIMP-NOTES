@@ -195,6 +195,10 @@ Create a JSP application using JSTL tags for conditions, iteration and formattin
 ```
 Create a custom JSP tag that performs a reusable operation such as displaying student information, formatting text or generating a message, using a custom tag handler and TLD file.
 ```
+<a href="CustomJSPTag">Code Folder</a>
+###### Output:
+<img width="1357" height="535" alt="image" src="https://github.com/user-attachments/assets/db53b8f4-9b08-4f84-a78b-aaad917882ed" />
+
 
 ### 20. JSP Expression Language 
 ```
