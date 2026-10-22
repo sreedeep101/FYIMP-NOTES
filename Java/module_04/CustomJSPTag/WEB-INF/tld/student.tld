@@ -11,7 +11,7 @@
 
     <tag>
         <name>studentInfo</name>
-        <tag-class>StudentTag</tag-class>
+        <tag-class>beans.StudentTag</tag-class>
         <body-content>empty</body-content>
 
         <attribute>
