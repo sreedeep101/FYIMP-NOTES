@@ -204,4 +204,9 @@ Create a custom JSP tag that performs a reusable operation such as displaying st
 ```
 Develop a JSP application using Expression Language (EL) to access JavaBean properties, request
 ```
+<a href="JSPExpression">Code Folder</a>
+###### Output:
+<img width="1357" height="535" alt="image" src="https://github.com/user-attachments/assets/c1353906-25fa-4922-a17c-a3e4e5855223" />
+<img width="1357" height="535" alt="image" src="https://github.com/user-attachments/assets/e0be4982-d978-4fc4-8ab6-138a3f59951f" />
+
 
