@@ -4,7 +4,7 @@ client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 server_address = ("localhost", 9999)
 
-total_frames = 10
+total_frames = 7
 window_size = 3
 
 base = 1

@@ -1,32 +1,19 @@
 import socket
+import time
 
-client = socket.socket(socket.AF_INET , socket.SOCK_DGRAM)
+client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+client.connect(("localhost", 5000))
 
-server_address = ("localhost", 5000)
-
-frames = ["Frame 1","Frame 2","Frame 3","Frame 4","Frame 5"]
-
-client.settimeout(3)
+frames = ["Frame 1", "Frame 2", "Frame 3"]
 
 for frame in frames:
-     
-    while True:
-        print("\nSending : ", frame)
+    print("Sending:", frame)
+    client.send(frame.encode())
 
-        client.sendto(frame.encode(),server_address)
+    ack = client.recv(1024).decode()
+    print("Received:", ack)
 
-        try:
-            data, address = client.recvfrom(1024)
-            ack = data.decode()
-            print("Received : " , ack)
-            break
+    time.sleep(1)
 
-        except socket.timeout:
-            print("Timeout! Resending", frame)
-
-print("\nAll frames sent successfully!")
+client.send("END".encode())
 client.close()
-
-
-
-

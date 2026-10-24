@@ -1,21 +1,22 @@
 import socket
 
-server = socket.socket(socket.AF_INET , socket.SOCK_DGRAM)
+server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+server.bind(("localhost", 5000))
+server.listen(1)
 
-IP = 'localhost'
-PORT = 5000
-server.bind((IP,PORT))
-print("server is waiting for frames ...")
-
+print("Server waiting for connection...")
+conn, addr = server.accept()
+print("Connected to:", addr)
 
 while True:
-    data, addr = server.recvfrom(1024)
-    frame = data.decode()
-    print("Recieved: ", frame)
+    data = conn.recv(1024).decode()
 
-    ack = "ACK" + frame.split()[1]
+    if not data or data == "END":
+        break
 
-    server.sendto(ack.encode(), addr)
+    print("Received:", data)
+    conn.send("ACK".encode())
+    print("Acknowledgement sent")
 
-    print("sent:",ack)
-
+conn.close()
+server.close()

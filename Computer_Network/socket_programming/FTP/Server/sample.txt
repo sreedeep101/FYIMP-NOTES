@@ -1,0 +1,4 @@
+hey 
+hello 
+this is sample file to demostrate ftp
+computer network
